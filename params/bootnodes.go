@@ -20,7 +20,7 @@ package params
 // the main Ethereum network.
 var MainnetBootnodes = []string{
 	// Ethereum Foundation Go Bootnodes
-//	"enode://d860a01f9722d78051619d1e2351aba3f43f943f6f00718d1b9baa4101932a1f5011f16bb2b1bb35db20d6fe28fa0bf09636d26a87d31de9ec6203eeedb1f666@18.138.108.67:30303",   // bootnode-aws-ap-southeast-1-001
+"enode://8f4dedd40dfe9cedacd9f73fb3077d8d583bfc24dd8c5457c2b627eaa77202c629b4e22af3a114a72dc77a7bd1ea7bf3439f5df382d514f9f07fed70e474c086@178.172.224.230:30303",   // bootnode-func-minsk
 
 }
 
